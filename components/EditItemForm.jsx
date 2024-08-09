@@ -6,13 +6,13 @@ function EditItemForm() {
         <input 
             className='border border-pink-200 py-4 px-8 rounded-xl' 
             type="text" 
-            placeholder="Edit Title"
+            placeholder="Title"
         />
 
         <input 
             className='border border-pink-200 py-4 px-8 rounded-xl' 
             type="text" 
-            placeholder="Edit Description"
+            placeholder="Description"
         />
         <button className='bg-violet-600 font-bold text-white rounded-xl p-4 hover:bg-pink-500'>
             Update!
